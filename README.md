@@ -1,5 +1,5 @@
 Hello! My name is Mateus Gheorghe de Castro Ribeiro. I am a Brazilian mechanical engineer ⚙️ heading for a 
-doctoral degree at Stanford University🌲 in the Fall of 2022 👨‍🔬. Nice to have you here on my website 😀
+doctoral degree at Stanford University🌲 in the Fall of 2022 👨‍🔬.
 
 My passion is to leverage artificial intelligence and engineering to contribute to a better world via research 🌎👨‍💻💡
 
