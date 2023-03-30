@@ -1,6 +1,6 @@
 Hello! My name is Mateus Gheorghe de Castro Ribeiro, I am a PhD student in the Stanford Sustainable Systems Lab (S3L) at Stanford University 🌲.
 
-Nice to have you here on my website 😀
+Nice to have you here 😀
 
 My passion is to leverage artificial intelligence and engineering to contribute to a better world via research 🌎👨‍💻💡
 
